@@ -6,9 +6,9 @@ My [personal homepage](https://axelle.dev).
 - Second thing
   - Hello
 
-I think I can even write some Python code:
+I can even write some Python code. To do so I enclose it with triple backticks, and I add "python" on the first line to get syntax highlighting:
 
-```
+```python
 def f(a, b):
     pass
 ```
