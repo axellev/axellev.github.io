@@ -6,7 +6,7 @@ But also some notes:
 
 - [Bash](bash.md)
 - [Keyboard shortcuts](keyboard-shortcuts.md)
-- [How to create a new file with Git](create_a_new_file.md)
+- [Git](git.md)
 
 I can even write some Python code. To do so I enclose it with triple backticks, and I add "python" on the first line to get syntax highlighting:
 
