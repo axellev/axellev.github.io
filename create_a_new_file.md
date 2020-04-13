@@ -16,3 +16,4 @@ First thing I created a new file and I'll write the instructions for this new fi
 * git diff &rightarrow; shows the difference in your file
 * git add &rightarrow; adds a file or the files'modifications to the staging area (also called the index)
 
+* git commit &rightarrow; creates a new snapshot of the repository, with the changes added in the previous step. It opens Vim to write a commit message.
