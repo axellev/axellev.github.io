@@ -12,3 +12,9 @@ I can even write some Python code. To do so I enclose it with triple backticks, 
 def f(a, b):
     pass
 ```
+
+I have opened and edited this file with VS code like this:
+
+```bash
+λ code README.md
+```
