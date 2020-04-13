@@ -8,18 +8,18 @@ First thing I created a new file and I'll write the instructions for this new fi
 
 **Bash commands**
 
-* ls &rightarrow; will show you your folder
-* ls create_a_new_file.md &rightarrow; will open your file on cmder
-* git status &rightarrow; hows the status of your file
-* git log &rightarrow; shows the history
+* `ls` &rightarrow; will show you your folder
+* `ls create_a_new_file.md` &rightarrow; will open your file on cmder
+* `git status` &rightarrow; hows the status of your file
+* `git log` &rightarrow; shows the history
 * **q** &rightarrow; to quit the history
-* git diff &rightarrow; shows the difference in your file
-* git add &rightarrow; adds a file or the files'modifications to the staging area (also called the index)
+* `git diff` &rightarrow; shows the difference in your file
+* `git add` &rightarrow; adds a file or the files'modifications to the staging area (also called the index)
 
-* git commit &rightarrow; creates a new snapshot of the repository, with the changes added in the previous step. It opens Vim to write a commit message.
+* `git commit` &rightarrow; creates a new snapshot of the repository, with the changes added in the previous step. It opens Vim to write a commit message.
 
 ### Others commands
 
-* git commit -v &rightarrow; creates a new commit and in Vim shows you the diff.
+* `git commit -v` &rightarrow; creates a new commit and in Vim shows you the diff.
 
-* git log -p &rightarrow; shows the commits and the diff (patch) for each commit.
+* `git log -p` &rightarrow; shows the commits and the diff (patch) for each commit.
